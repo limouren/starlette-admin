@@ -15,6 +15,7 @@ SUPPORTED_LOCALES = [
     "fr",  # French
     "ru",  # Russian
     "tr",  # Turkish
+    "zh_Hant",  # Traditional Chinese
 ]
 
 
